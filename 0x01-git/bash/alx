@@ -1,6 +1,2 @@
 #!/bin/bash"
-<<<<<<< HEAD
-echo "ALX school is so cool!"
-=======
-echo "ALX is great"
->>>>>>> update_script
+echo "merge conflict"
